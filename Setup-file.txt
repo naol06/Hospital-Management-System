@@ -1,0 +1,11 @@
+Install all required software to run the project:
+1 IDE download java compiler eg. netbean,VScode,Eclipse.
+2 Database- download database management software eg. Xampp as server,mysql,mampp as server.
+3 import the database to prepared database software.
+4 open project using IDE 
+5 run HMS project
+
+
+Note username and password for registered admin is:-
+Username= admin
+password= 12345
